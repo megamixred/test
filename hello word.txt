@@ -1,2 +1,2 @@
 print ("Hello Word")
-print ("Hello evrebody") ò
+print ("Hello evrebody") //whot is zis
